@@ -1,0 +1,535 @@
+{
+  "profile": {
+    "name": "André Calazans",
+    "email": "andrecalazansneto@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/andr%C3%A9calazans/",
+    "location": "Liberdade, São Paulo",
+    "behance": "https://www.behance.net/andrecalazans",
+    "instagram": "https://www.instagram.com/xandriellyxandon/?__pwa=1",
+    "booking": "https://calendly.com/andrecalazansneto/30min",
+    "intro": "Atuo em estratégia de conteúdo, design e gestão de projetos criativos. Meu trabalho passa por pesquisa de tendências, vídeo curto, direção de arte e produção audiovisual.",
+    "logoVideo": ""
+  },
+  "projects": [
+    {
+      "id": "audicoes-nacionais",
+      "number": "01",
+      "featuredLabel": "Audições Nice House",
+      "title": "Audições Nice House",
+      "area": "Nice House · Coordenação de conteúdo e liderança criativa",
+      "summary": "Coordenei a equipe de criação do projeto nacional de seleção de criadores e liderei o trabalho de conteúdo para dar forma à edição e aos desafios. A galeria inclui um panorama histórico de outras edições apresentado pela Nice House.",
+      "frames": [
+        {
+          "label": "Capa",
+          "image": {
+            "src": "/sites/portfolio/cases/nice-audicoes-shared.webp",
+            "alt": "Audições Nice House, com o logo sobre uma foto do grupo"
+          }
+        },
+        {
+          "label": "O hub",
+          "image": {
+            "src": "/sites/portfolio/cases/nice-hub.webp",
+            "alt": "Apresentação da Nice House como hub de vídeos curtos"
+          }
+        },
+        {
+          "label": "Histórico das edições",
+          "image": {
+            "src": "/sites/portfolio/cases/audicoes-historico.webp",
+            "alt": "Indicadores históricos das edições de 2020 e 2021 e dos desafios patrocinados"
+          }
+        },
+        {
+          "label": "Criadores",
+          "image": {
+            "src": "/sites/portfolio/cases/nice-criadores.webp",
+            "alt": "Peça da Nice House com fotografia de criadores"
+          }
+        },
+        {
+          "label": "Iniciativas do hub",
+          "image": {
+            "src": "/sites/portfolio/cases/nice-iniciativas.webp",
+            "alt": "Panorama de projetos e colaborações da Nice House"
+          }
+        }
+      ]
+    },
+    {
+      "id": "picpay-empresas",
+      "number": "02",
+      "featuredLabel": "PicPay Empresas",
+      "title": "Ei, PJ. Tamo Junto!",
+      "area": "PicPay Empresas · BETC HAVAS · Direção de arte",
+      "summary": "A campanha criada pela equipe da BETC HAVAS aproximou o PicPay da rotina de quem empreende, com foco na abertura de contas PJ. Na direção de arte, trabalhei na comunicação visual e nos desdobramentos digitais da conta.",
+      "filmUrl": "https://www.youtube.com/watch?v=47pfymKdljw",
+      "frames": [
+        {
+          "label": "Capa",
+          "image": {
+            "src": "/sites/portfolio/cases/picpay-stories.webp",
+            "alt": "Imagem de abertura do filme de PicPay Empresas"
+          },
+          "video": "/sites/portfolio/cases/picpay-filme.mp4"
+        },
+        {
+          "label": "Stories",
+          "image": {
+            "src": "/sites/portfolio/cases/picpay-stories.webp",
+            "alt": "Quatro peças de Stories de PicPay Empresas aplicadas em celulares"
+          }
+        },
+        {
+          "label": "Página da campanha",
+          "image": {
+            "src": "/sites/portfolio/cases/picpay-site.webp",
+            "alt": "Página de PicPay Empresas aplicada em um notebook"
+          }
+        },
+        {
+          "label": "Você é PJ?",
+          "image": {
+            "src": "/sites/portfolio/cases/picpay-horizontal.webp",
+            "alt": "Adaptação horizontal da peça Você é PJ?, da campanha PicPay Empresas"
+          }
+        }
+      ]
+    },
+    {
+      "id": "nice-trip-2022",
+      "number": "02",
+      "featuredLabel": "Nice Trip 2022",
+      "title": "Nice Trip 2022",
+      "area": "Nice House · Direção criativa em equipe",
+      "summary": "Integrei a direção criativa da Nice Trip 2022, coordenando conteúdos, criadores e entregas para parceiros. A operação incluiu colaborações internacionais, uma visita à Disneyland Paris e uma passagem pelo Rock in Rio.",
+      "frames": [
+        {
+          "label": "Identidade da viagem",
+          "image": {
+            "src": "/sites/portfolio/cases/trip-wide.webp",
+            "alt": "Capa horizontal da Nice Trip 2022 com a identidade original em fundo espacial"
+          }
+        },
+        {
+          "label": "Roteiro",
+          "image": {
+            "src": "/sites/portfolio/cases/trip-route-centered.webp",
+            "alt": "Logo centralizado da Nice Trip e roteiro em três paradas: Milão, Paris e Rio de Janeiro"
+          }
+        }
+      ]
+    },
+    {
+      "id": "nice-trend-talks",
+      "number": "03",
+      "featuredLabel": "Nice Trend Talks",
+      "title": "Nice Trend Talks",
+      "area": "Nice House · Direção criativa e mediação",
+      "summary": "Conduzi um painel da série que colocava criadores e marcas em diálogo sobre a creator economy. Com Jand, Andreza Delgado e Os Banheiristas, discuti protagonismo de pessoas negras, presença de povos originários e diversidade de gênero e sexualidade na publicidade brasileira.",
+      "frames": [
+        {
+          "label": "Capa",
+          "image": {
+            "src": "/sites/portfolio/cases/trend-wide.webp",
+            "alt": "Logo roxo da Nice Trend Talks sobre fundo amarelo"
+          }
+        },
+        {
+          "label": "André no palco",
+          "image": {
+            "src": "/sites/portfolio/cases/trend-palco.webp",
+            "alt": "André Calazans com o microfone no palco da Nice Trend Talks"
+          }
+        }
+      ]
+    },
+    {
+      "id": "batalha-de-looks",
+      "number": "01",
+      "featuredLabel": "Batalha de Looks",
+      "title": "Batalha de Looks",
+      "area": "Mercado Livre Moda · Nice House · Gestão de criação e de conta",
+      "summary": "Contribuí para criar partes do formato da competição, que reuniu criadoras de moda, beleza e lifestyle em desafios de vídeo vertical para revelar uma integrante do Meli Fashion Squad. O material do projeto registra 17 criadoras ativas e 129 publicações em 30 dias.",
+      "frames": [
+        {
+          "label": "Capa",
+          "image": {
+            "src": "/sites/portfolio/cases/looks-capa.webp",
+            "alt": "Identidade da Batalha de Looks do Mercado Livre Moda"
+          }
+        },
+        {
+          "label": "Números do projeto",
+          "image": {
+            "src": "/sites/portfolio/cases/looks-big-numbers.webp",
+            "alt": "Resultados da Batalha de Looks em mosaico com a faixa rosa: 17 criadoras ativas, 129 publicações e 30 dias"
+          }
+        }
+      ]
+    },
+    {
+      "id": "house-nestle",
+      "number": "02",
+      "featuredLabel": "House Nestlé",
+      "title": "House Nestlé",
+      "area": "Direção de arte · Embalagem, key visuals e motion",
+      "summary": "Na House Nestlé, desenvolvi peças para diferentes marcas e formatos. Criei a embalagem e montei o key visual de Baton Buttons, criei o visual do podcast Para Você!, da Nescau, e produzi peças de Natal para Nestlé Até Você. A seleção inclui o Dia Internacional do Café com Nescafé e Starbucks e os desdobramentos de Molico em Stories e materiais offline.",
+      "frames": [
+        {
+          "label": "Molico · Stories",
+          "image": {
+            "src": "/sites/portfolio/cases/molico-motion-poster.webp",
+            "alt": "Motion de Stories de Molico"
+          },
+          "video": "/sites/portfolio/cases/molico-motion.mp4",
+          "companion": {
+            "theme": "molico",
+            "title": "Molico",
+            "image": {
+              "src": "/sites/portfolio/cases/molico-side.webp",
+              "alt": "Logotipo Nestlé Molico sobre fundo azul"
+            }
+          }
+        },
+        {
+          "label": "Baton Buttons · Embalagem e KV",
+          "image": {
+            "src": "/sites/portfolio/cases/baton.webp",
+            "alt": "Copo de Baton Buttons com chocolate e leite sobre fundo azul"
+          }
+        },
+        {
+          "label": "Nescau · Para Você!",
+          "image": {
+            "src": "/sites/portfolio/cases/nescau-wide.webp",
+            "alt": "Key visual vermelho do podcast Para Você!, da Nescau"
+          }
+        },
+        {
+          "label": "Nestlé Até Você · Natal",
+          "image": {
+            "src": "/sites/portfolio/cases/natal-wide.webp",
+            "alt": "Peça de Natal da Nestlé Até Você em verde com enfeites e presentes"
+          }
+        },
+        {
+          "label": "Dia Internacional do Café",
+          "image": {
+            "src": "/sites/portfolio/cases/cafe-wide.webp",
+            "alt": "Peça com produtos Nescafé, Dolce Gusto e Starbucks"
+          }
+        },
+        {
+          "label": "Nescafé e Starbucks · Motion",
+          "image": {
+            "src": "/sites/portfolio/cases/cafe-motion-poster.webp",
+            "alt": "Motion de Nescafé e Starbucks"
+          },
+          "video": "/sites/portfolio/cases/cafe-motion.mp4",
+          "companion": {
+            "theme": "cafe",
+            "title": "Dia Internacional do Café"
+          }
+        },
+        {
+          "label": "Molico · Key visual",
+          "image": {
+            "src": "/sites/portfolio/cases/molico-kv.webp",
+            "alt": "Key visual de Molico com fundo azul e branco e embalagem do produto"
+          }
+        },
+        {
+          "label": "Molico · Aplicações offline",
+          "image": {
+            "src": "/sites/portfolio/cases/molico-offline-wide.webp",
+            "alt": "Mockups de brindes e de aplicação em toldo para Molico"
+          }
+        }
+      ]
+    },
+    {
+      "id": "jimmy-the-bull",
+      "number": "01",
+      "featuredLabel": "Tok&Stok",
+      "title": "Tok&Stok",
+      "area": "Tok&Stok · Agência Ginga · Direção de arte",
+      "summary": "Fiz a direção de arte da campanha digital de lançamento da coleção Jimmy The Bull, criada com o artista Rafael Mantesso. Trabalhei em parceria com a redatora Raquel Machado para levar o universo do personagem às peças da coleção. A galeria também traz uma seleção de outras peças e vídeos da Tok&Stok.",
+      "frames": [
+        {
+          "label": "Ana Strumpf",
+          "image": {
+            "src": "/sites/portfolio/cases/tokstok-ana.webp",
+            "alt": "Vídeo com a ilustradora e designer Ana Strumpf"
+          },
+          "video": "/sites/portfolio/cases/tokstok-ana.mp4"
+        },
+        {
+          "label": "Jimmy The Bull",
+          "image": {
+            "src": "/sites/portfolio/cases/jimmy-capa.webp",
+            "alt": "Frame do vídeo da coleção Jimmy The Bull"
+          },
+          "video": "/sites/portfolio/cases/jimmy-motion.mp4",
+          "companion": {
+            "theme": "tokstok",
+            "title": "Jimmy The Bull"
+          }
+        },
+        {
+          "label": "Pets em casa",
+          "image": {
+            "src": "/sites/portfolio/cases/tokstok-pets.webp",
+            "alt": "Vídeo da Tok&Stok sobre dividir a casa com os pets"
+          },
+          "video": "/sites/portfolio/cases/tokstok-pets.mp4"
+        },
+        {
+          "label": "Best Friday",
+          "image": {
+            "src": "/sites/portfolio/cases/tokstok-best-wide.webp",
+            "alt": "Peça Best Friday da Tok&Stok com luminária e mesa de cabeceira"
+          }
+        }
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "title": "Estratégia de conteúdo",
+      "description": "Pesquisa de tendências, marketing digital e vídeo curto.",
+      "icon": 0
+    },
+    {
+      "title": "Gestão de projetos",
+      "description": "Gestão de contas e projetos com marcas e criadores.",
+      "icon": 1
+    },
+    {
+      "title": "Design e direção de arte",
+      "description": "Design de conteúdo, direção de arte e criação visual.",
+      "icon": 2
+    },
+    {
+      "title": "Audiovisual",
+      "description": "Produção, fotografia e filmmaking.",
+      "icon": 3
+    }
+  ],
+  "aiSkills": [
+    "Higgsfield",
+    "Seedance 2.0",
+    "Claude Code · GPT Codex",
+    "Otimização de tarefas com inteligência artificial"
+  ],
+  "experience": [
+    {
+      "company": "Canva",
+      "role": "Content Designer",
+      "period": "Abr. 2026 – atual"
+    },
+    {
+      "company": "ByteDance",
+      "role": "Viral Content Specialist",
+      "period": "Set. 2025 – abr. 2026"
+    },
+    {
+      "company": "Nice House",
+      "role": "Gerente de contas pleno e sênior",
+      "period": "Jan. 2023 – mai. 2025"
+    },
+    {
+      "company": "Final Level Co",
+      "role": "Coordenador de conteúdo",
+      "period": "Mar. 2022 – jan. 2023"
+    },
+    {
+      "company": "Agência Ginga",
+      "role": "Diretor de arte e conteúdo",
+      "period": "Abr. 2021 – mar. 2022"
+    },
+    {
+      "company": "All Set Comunicação",
+      "role": "Diretor de arte · House Nestlé",
+      "period": "Out. 2019 – mar. 2021"
+    },
+    {
+      "company": "Nice House",
+      "role": "Criação de conteúdo",
+      "period": "Jul. 2020 – nov. 2020"
+    }
+  ],
+  "brands": [
+    {
+      "brand": "BIS",
+      "role": "Direção criativa"
+    },
+    {
+      "brand": "Oi",
+      "role": "Direção de arte"
+    },
+    {
+      "brand": "TikTok",
+      "role": "Gerência de conta · TTCX"
+    },
+    {
+      "brand": "Warner Bros.",
+      "role": "Gerência de conta"
+    },
+    {
+      "brand": "Americanas",
+      "role": "Gerência de conta"
+    },
+    {
+      "brand": "Mercado Livre",
+      "role": "Gerência de criação e de conta"
+    },
+    {
+      "brand": "PicPay",
+      "role": "Direção de arte · BETC HAVAS"
+    },
+    {
+      "brand": "Moça",
+      "role": "Direção de arte"
+    },
+    {
+      "brand": "Nestlé",
+      "role": "Direção de arte · House Nestlé"
+    },
+    {
+      "brand": "Nescau",
+      "role": "Direção de arte"
+    },
+    {
+      "brand": "Garoto",
+      "role": "Embalagem e key visual · Baton Buttons"
+    },
+    {
+      "brand": "Molico",
+      "role": "Direção de arte e motion"
+    },
+    {
+      "brand": "Nescafé",
+      "role": "Direção de arte e motion"
+    },
+    {
+      "brand": "Starbucks",
+      "role": "Direção de arte e motion"
+    },
+    {
+      "brand": "Tok&Stok",
+      "role": "Direção de arte · Jimmy The Bull"
+    },
+    {
+      "brand": "Canva",
+      "role": "Consultoria de design de conteúdo"
+    },
+    {
+      "brand": "CapCut Brasil",
+      "role": "Liderança de programa de criadores · MultIAverso"
+    },
+    {
+      "brand": "Ambev",
+      "role": "Colaboração em projetos"
+    },
+    {
+      "brand": "Lacta",
+      "role": "Colaboração em projetos"
+    },
+    {
+      "brand": "ibis",
+      "role": "Parceria em audições"
+    },
+    {
+      "brand": "Lemon Cash",
+      "role": "Parceria em desafio das audições"
+    },
+    {
+      "brand": "Rock in Rio",
+      "role": "Parceiro citado na Nice Trip"
+    }
+  ],
+  "sections": [
+    {
+      "id": "inicio",
+      "label": "Início",
+      "title": "Conteúdo",
+      "subtitle": "— Design",
+      "background": "#19163d",
+      "titleColor": "#f5f48e",
+      "subtitleColor": "#f5f48e"
+    },
+    {
+      "id": "projetos",
+      "label": "Projetos",
+      "title": "Projetos",
+      "subtitle": "",
+      "background": "#24232a",
+      "titleColor": "#f5f48e",
+      "subtitleColor": "#e0ccff"
+    },
+    {
+      "id": "competencias",
+      "label": "Competências",
+      "title": "Competências",
+      "subtitle": "& serviços",
+      "background": "#19163d",
+      "titleColor": "#e0ccff",
+      "subtitleColor": "#f5f48e"
+    },
+    {
+      "id": "trajetoria",
+      "label": "Trajetória",
+      "title": "Trajetória",
+      "subtitle": "",
+      "background": "#252244",
+      "titleColor": "#f5f48e",
+      "subtitleColor": "#e0ccff"
+    },
+    {
+      "id": "clientes",
+      "label": "Clientes",
+      "title": "Clientes",
+      "subtitle": "",
+      "background": "#19163d",
+      "titleColor": "#e0ccff",
+      "subtitleColor": "#e0ccff"
+    },
+    {
+      "id": "contato",
+      "label": "Contato",
+      "title": "Vamos criar",
+      "subtitle": "algo juntos?",
+      "background": "#19163d",
+      "titleColor": "#f5f48e",
+      "subtitleColor": "#f5f48e"
+    }
+  ],
+  "text": {
+    "logo": "/sites/portfolio/calazans.png",
+    "portfolio": "Portfólio",
+    "directionMark": "&",
+    "directionStart": "Dire",
+    "directionEnd": "— Ção",
+    "splitWord": "Design",
+    "introStatement": "Da pesquisa à execução, conecto estratégia, criação e produção para dar forma a projetos de conteúdo.",
+    "explore": "Explore",
+    "moreWork": "Mais trabalhos",
+    "onBehance": "no Behance",
+    "creation": "Criação",
+    "artificialIntelligence": "Inteligência artificial",
+    "clientsIntro": "Marcas que fizeram parte de projetos e campanhas da minha trajetória.",
+    "contactIntro": "Da primeira ideia à entrega, trabalho com marcas e equipes para criar conteúdo, campanhas e experiências digitais. Me conta o que você quer construir.",
+    "greeting": "Olá",
+    "emailDisplay": "@calazans.com",
+    "copied": "O e-mail foi copiado",
+    "availability": "Disponível para novos projetos",
+    "booking": "Marque um horário",
+    "projectLink": "Ver projeto",
+    "projectDetail": "Sobre o projeto",
+    "filmLink": "Assistir ao filme",
+    "instagram": "Instagram",
+    "linkedin": "LinkedIn",
+    "behance": "Behance"
+  }
+}

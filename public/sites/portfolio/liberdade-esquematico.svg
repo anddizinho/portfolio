@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 760" role="img" aria-label="Ilustração esquemática da Liberdade">
+  <defs>
+    <pattern id="blocks" width="99" height="83" patternUnits="userSpaceOnUse" patternTransform="rotate(-24 500 380)">
+      <path d="M0 13h99M0 64h99M27 0v83m51-83v83" fill="none" stroke="#4d4585" stroke-width="1.2"/>
+    </pattern>
+    <radialGradient id="night"><stop stop-color="#29234e"/><stop offset="1" stop-color="#17152e"/></radialGradient>
+  </defs>
+  <path fill="url(#night)" d="M0 0h1000v760H0z"/>
+  <path fill="url(#blocks)" opacity=".84" d="M0 0h1000v760H0z"/>
+  <g fill="none" stroke="#8170bd" stroke-width="2" stroke-linejoin="round">
+    <path d="M-30 603 238 482 404 431 645 358 1019 129M-30 458 162 375 348 317 756 182 1029 6M50 780l300-147 181-65 188-76 334-193M218 787l243-111 185-57 396-168M-21 282l275-95 188-54 213-93 106-71"/>
+    <path d="m66-30 201 277 98 162 147 351M208-20l90 193 146 156 90 177 142 270M348-30l95 174 185 229 45 143 125 251M504-28l56 130 163 212 152 440M652-10l118 192 140 163 114 290M-52 204l159 183 84 115 120 270"/>
+    <path d="M116 298l145-51 63-46m-88 281 78 134m269-389 125-68m-65 200 95 65 125-9m-517-97-52-66m41 375 46 95m275-332 93-43m-508-20-90 34"/>
+  </g>
+  <g fill="none" stroke="#d2baff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M-28 541 205 449 362 420 503 380 724 273 1020 107"/>
+    <path d="M155-30 277 157 403 282 503 380 572 558 711 777"/>
+    <path d="M-25 112 127 139 277 157 390 175 560 102 759 43 1019 20"/>
+    <path d="m256 770 153-133 163-79 145-64 238-67 66-53"/>
+  </g>
+  <g fill="none" stroke="#f2ed9a" stroke-width="1.15" opacity=".55">
+    <circle cx="503" cy="380" r="29"/><circle cx="503" cy="380" r="55" stroke-dasharray="3 8"/>
+  </g>
+</svg>

@@ -1,0 +1,45 @@
+{
+  "name": "Xandrielly Xandon",
+  "tagline": "Funk, club e performance. Do palco à pista.",
+  "description": "Drag queen, performer, DJ, apresentadora e criadora",
+  "location": "De Aracaju, morando em São Paulo",
+  "email": "assessoriaxandrielly@gmail.com",
+  "backgroundVideo": "/sites/bio/motion-tech-funk.mp4",
+  "backgroundPoster": "/sites/bio/motion-poster.webp",
+  "socials": [
+    {
+      "label": "Instagram",
+      "url": "https://www.instagram.com/xandriellyxandon"
+    },
+    {
+      "label": "YouTube",
+      "url": "https://www.youtube.com/@Xandriellyxandon"
+    },
+    {
+      "label": "TikTok",
+      "url": "https://www.tiktok.com/@xandriellyxandon"
+    },
+    {
+      "label": "X / Twitter",
+      "url": "https://twitter.com/xandrielyxandon"
+    },
+    {
+      "label": "SoundCloud",
+      "url": "https://on.soundcloud.com/BSxkxTBbEKs1yyrYN6"
+    }
+  ],
+  "releases": [
+    {
+      "badge": "Out Now",
+      "caption": "Novo DJset",
+      "title": "~̮̙͂͑̇F͉ͮ͑Ů̬ͫN̩̝̔ͧ̾K͈̩͐ͮ~̝̃X̥ͥ̕~̝̣̉̃͗T͕ͫÊ̟C̢͙ͬ͌̏H̗ͥ̓~̫ͫ̏R͎͂E̠͓ͦͫM̡̲̅͑̈Ǎ̲͊Š̖T̪͒ͬḘ̌̓ͭR͈͓̈́̏O",
+      "showTitle": true,
+      "image": "/sites/bio/cover-funk-x-tech-clear.png",
+      "alt": "CD em caixa transparente com um retrato de Xandrielly Xandon num cubo de vidro",
+      "video": "",
+      "href": "https://on.soundcloud.com/BSxkxTBbEKs1yyrYN6",
+      "linkText": "Ouvir no SoundCloud",
+      "id": "funk-x-tech"
+    }
+  ]
+}
